@@ -1,0 +1,4 @@
+D:\Mindtree KALINGA\ORCHARD\My Practices\EmployeeManagementSystem\Entities\bin\Debug\Entities.dll
+D:\Mindtree KALINGA\ORCHARD\My Practices\EmployeeManagementSystem\Entities\bin\Debug\Entities.pdb
+D:\Mindtree KALINGA\ORCHARD\My Practices\EmployeeManagementSystem\Entities\obj\Debug\Entities.dll
+D:\Mindtree KALINGA\ORCHARD\My Practices\EmployeeManagementSystem\Entities\obj\Debug\Entities.pdb
